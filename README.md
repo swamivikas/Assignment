@@ -34,21 +34,22 @@ python manage.py runserver
 
 ## Create User: POST /api/users/
 ### you can see the testing of api on postman in below image
-![image](https://github.com/user-attachments/assets/3adb5954-7dc0-401a-96dc-90e087ec1f71)
+![Screenshot 2024-07-27 172916](https://github.com/user-attachments/assets/503acce6-0df0-4a26-8a0f-c1e540a588dc)
+
 
 
 ## Retrieve User Details: GET /api/users/{id}/
 ### you can see the testing of api on postman in below image
-![image](https://github.com/user-attachments/assets/70af4d4b-8e11-4792-bcf3-4f88198943d3)
+![Screenshot 2024-07-27 173040](https://github.com/user-attachments/assets/af5e58b4-602d-4e15-bd63-876108cd6034)
 
 ## Add Expense: POST /api/expenses/
 ### you can see the testing of api on postman in below image -> it is a post request so user have to provide data 
-![image](https://github.com/user-attachments/assets/fecc4d1d-4796-45c6-ba64-c1024ab8fb5f)
+![Screenshot 2024-07-27 173143](https://github.com/user-attachments/assets/97c1c5c7-fbe9-4190-9cbc-bedf81fd8eb5)
 
 ## Retrieve Individual User Expenses : /api/expenses/{enter user id}/user_expenses/
 ### you can see the testing of api on postman in below image
-![image](https://github.com/user-attachments/assets/6f2b58a0-0096-4153-bccc-7e29068de7db)
+![Screenshot 2024-07-27 173342](https://github.com/user-attachments/assets/2f2e202f-203c-43ed-a0ef-378122692f16)
 
 ## Retrieve Overall Expenses : /api/expenses/all_expenses/
 ### you can see the testing of api on postman in below image
-![image](https://github.com/user-attachments/assets/be1a678a-3eb9-4e9b-a89e-78f25e156469)
+![Screenshot 2024-07-27 173440](https://github.com/user-attachments/assets/6ba09b6d-2bd4-4bbd-8c10-2ce87c28085c)
